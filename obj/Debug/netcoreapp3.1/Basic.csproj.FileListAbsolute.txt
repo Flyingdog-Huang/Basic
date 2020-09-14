@@ -1,0 +1,13 @@
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache
