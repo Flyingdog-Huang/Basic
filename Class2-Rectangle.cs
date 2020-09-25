@@ -7,8 +7,13 @@ namespace Basic
     class Class2_Rectangle
     {
         // 成员变量
+        //单行注释
+        /*
+         * 多行注释
+         */
         double length;
         double width;
+        //成员函数
         public void Acceptdetails()
         {
             length = 4.5;

@@ -7,7 +7,9 @@ D:\C#\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
-D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.dll
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
 D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache
+D:\C#\Basic\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+D:\C#\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CopyComplete

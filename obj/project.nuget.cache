@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6E4K+s8ekU+TQJxL1riXE9rchbZlBCmFa+jEIBcCkNAgeTLcOOpjTsJlic1f0n6KnB1ZCb5qzFvcsGPI1ePGtg==",
+  "dgSpecHash": "3ryVjPw4lgRXexlR9PukhUUOfctm0jRAnvdZIecyFfhZ8h/oNql8o2XtuCEYb3w3eROtCqSSfqeUCZsU6hiXaw==",
   "success": true,
   "projectFilePath": "D:\\C#\\Basic\\Basic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\003740\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
